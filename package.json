@@ -1,0 +1,25 @@
+{
+  "name": "week-10-liri",
+  "version": "1.0.0",
+  "description": "Week 10 Homework - Liri",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranmike270/Week-10-Liri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranmike270/Week-10-Liri/issues"
+  },
+  "homepage": "https://github.com/tranmike270/Week-10-Liri#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.85.0",
+    "twitter": "^1.7.1"
+  }
+}
